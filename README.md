@@ -1,4 +1,4 @@
-#Email-automation-with-script
+# Email-automation-with-script
 
 Step1: Install bsd-mailx,mutt and postfix
 
