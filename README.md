@@ -1,7 +1,6 @@
-Email-automation-with-script
-
+**Email-automation-with-script
+**
 Step1: Install bsd-mailx,mutt and postfix
-
 Step2: Configuring main.cf file.
  
 Step3: Configuring Gmail.
